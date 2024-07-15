@@ -1,6 +1,17 @@
-Last.fm profile data for user: : 
+Last.fm profile data for user:
 
 Artist data:
 {
+
+}
+
+Album data:
+{
+
+}
+
+Song data:
+{
+
 }
 
