@@ -64,7 +64,7 @@ def get_grid_data(number_of_entries, index):
 
     entry_play_list = []
 
-    for i in range(len(entry_list)):  #Creates a list alternating between artist/album names and their number of fails
+    for i in range(len(entry_list)):  #Creates a list alternating between artist/album names and their number of plays
         entry_play_list.append(entry_list[i])
         entry_play_list.append(plays_list[i])
     griddata = {}
