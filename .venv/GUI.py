@@ -108,7 +108,7 @@ class Ui_MainWindow(object):
 
     def run_cli(self):
         self.output_text.clear()
-        system("python3 CLI.py")
+        system("python3 CLI.py") #Command for Linux and macOS, altered in Windows version
         self.output_text.setText("File written!")
 
 
