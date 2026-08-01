@@ -10,3 +10,6 @@ Choose the correct info regarding your profile's default display mode, click sav
 If using CLI:
 Fill the config.json file with your last.fm username and the number of artists, albums and recent tracks (not top tracks!) listed on your account page by default, then run the script and the data will be written to the Last.fm.txt file
 
+
+# Randomly remembered this and realized the GUI in the release version straight up doesn't work
+I fixed it but the whole thing behaves very weirdly what was I doing
